@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrikarSisitla06
+- 👋 Hi, I’m @SrikarSistla06
 - 👀 I’m interested in Coding and devolepment in any field using python  
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on no-one for now
