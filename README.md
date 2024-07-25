@@ -4,18 +4,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [mention any new technologies or skills].
-- 👯 I’m looking to collaborate on [projects or open-source initiatives].
-- 💬 Ask me about [areas of expertise].
-- 📫 How to reach me: [email/contact info]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [A fun fact about yourself]
+- 🌱 I’m currently learning Data Analytics and Project Management.
+- 📸 Photography and 🎮 gaming enthusiast.
+- 👯 I’m looking to collaborate on creating gaming project or a anaytics platform irrespective of the field of industry.
+- 💬 Ask me about photography and story telling.
+- 📫 How to reach me: srikars351@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love doing stuff and I'm a wanderer
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: [list your languages]
-- Frameworks/Libraries: [list your frameworks/libraries]
-- Tools: [list your tools]
+- Programming Languages: Python on daily basis
+- Frameworks/Libraries: React, Angular, Vue.js, Node.js, Django &Flask, Spring
+- Tools: Fl Studios, Adobe Premier, Git Hub, Jil, Trello, VS Code & IntelliJ IDEA
 
 ## 📈 GitHub Stats
 
