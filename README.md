@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - Frameworks/Libraries: React, Angular, Vue.js, Node.js, Django &Flask, Spring
 - Tools: Fl Studios, Adobe Premier, Git Hub, Jil, Trello, VS Code & IntelliJ IDEA
 
-## 📈 GitHub Stats
+## 📸 My Photography
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SrikarSistla08&show_icons=true&theme=radical)](https://github.com/SrikarSistla08)
+Check out my professional photography account on Instagram: [VHS Dawn](https://www.instagram.com/vhs.dawn?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ## 🔗 Connect with Me
 
