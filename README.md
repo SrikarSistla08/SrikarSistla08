@@ -1,6 +1,6 @@
 # Hello, I'm Srikar! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in [list your main technologies/skills].
+Welcome to my GitHub profile! I'm a passionate software developer with experience in Python Dev, Analysis and Photography.
 
 ## 🚀 About Me
 
