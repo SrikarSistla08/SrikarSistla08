@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ## 🔧 Technologies & Tools
 
 - Programming Languages: Python on daily basis
-- Frameworks/Libraries: React, Angular, Vue.js, Node.js, Django &Flask, Spring
+- Frameworks/Libraries: PHP, Node.js, Django &Flask
 - Tools: Fl Studios, Adobe Premier, Git Hub, Jil, Trello, VS Code & IntelliJ IDEA
 
 ## 📸 My Photography
