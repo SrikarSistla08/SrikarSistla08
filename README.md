@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - 📸 Photography and 🎮 gaming enthusiast.
 - 👯 I’m looking to collaborate on creating gaming project or a anaytics platform irrespective of the field of industry.
 - 💬 Ask me about photography and story telling.
-- 📫 How to reach me: srikars351@gmail.com
+- 📫 How to reach me: srikarsistla710@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love doing stuff and I'm a wanderer
 
