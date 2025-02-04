@@ -1,20 +1,21 @@
-# Hello, I'm Srikar! 👋
+# Hello, This is Srikar! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in Python Dev, Analysis and Photography.
+Welcome to my GitHub profile! I'm a passionate software developer with experience in Python Dev, Analysis and Photography. This is my space for unique stuff and acute perspective.
 
 ## 🚀 About Me
 
+- ⚒️ Currently working as a Software Engineer mainly using React with NEXT.js 
 - 🌱 I’m currently learning Data Analytics and Project Management.
 - 📸 Photography and 🎮 gaming enthusiast.
 - 👯 I’m looking to collaborate on creating gaming project or a anaytics platform irrespective of the field of industry.
 - 💬 Ask me about photography and story telling.
 - 📫 How to reach me: srikarsistla710@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love doing stuff and I'm a wanderer
+- ⚡ Fun fact: My mind won't let me rest till I solve anything that comes my way and I'm a wanderer
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: Python on daily basis
+- Programming Languages: Python, Java Script
 - Frameworks/Libraries: PHP, Node.js, Django &Flask
 - Tools: Fl Studios, Adobe Premier, Git Hub, Jil, Trello, VS Code & IntelliJ IDEA
 
