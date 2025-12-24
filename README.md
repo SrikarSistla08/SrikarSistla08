@@ -5,8 +5,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 🚀 About Me
 
-- ⚒️ Currently working as a Software Engineer mainly using React with NEXT.js 
-- 🌱 I’m currently learning Data Analytics and Project Management.
+- ⚒️ Currently working as a Data Scientist | Python, SQL & Machine Learning
+- 🌱 I’m currently learning Data Analytics and building analytical notebooks, predictive models, and ETL projects demonstrating real data insight.
+- 🔬 Focus areas: classification, clustering, data visualization, predictive analytics, and reproducible data workflows.
 - 📸 Photography and 🎮 gaming enthusiast.
 - 👯 I’m looking to collaborate on creating gaming project or a anaytics platform irrespective of the field of industry.
 - 💬 Ask me about photography and story telling.
