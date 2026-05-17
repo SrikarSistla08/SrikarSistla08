@@ -63,9 +63,17 @@ PostgreSQL • MySQL • ETL Pipelines • Git • Jupyter Notebook
 
 Power BI • Dashboarding • Forecasting • Data Storytelling
 
-## 📸 My Photography
 
-Check out my professional photography account on Instagram: [VHS Dawn](https://www.instagram.com/vhs.dawn?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+#### 📈 Professional Interests
+
+I’m particularly interested in:
+
+* Business Analytics
+* Operations & Process Improvement
+* Business Systems Analysis
+* Enterprise Analytics Solutions
+* Data-Driven Decision Making
+
 
 
 ## 🌐 Portifolio & Links:
@@ -86,3 +94,8 @@ Check out my professional photography account on Instagram: [VHS Dawn](https://w
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
 </div>
 <br>
+
+
+## 📸 My Photography
+
+Check out my professional photography account on Instagram: [VHS Dawn](https://www.instagram.com/vhs.dawn?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
